@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1215</width>
-    <height>758</height>
+    <width>1074</width>
+    <height>815</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -661,7 +661,7 @@ selection-color: rgb(249, 240, 107);
           <x>260</x>
           <y>0</y>
           <width>511</width>
-          <height>141</height>
+          <height>741</height>
          </rect>
         </property>
         <property name="visible">
@@ -670,44 +670,477 @@ selection-color: rgb(249, 240, 107);
         <property name="styleSheet">
          <string notr="true">background-color: rgb(61, 56, 70);</string>
         </property>
+        <property name="headerHidden">
+         <bool>true</bool>
+        </property>
         <column>
          <property name="text">
-          <string>Диапазон каждой литавры</string>
+          <string>Литавры</string>
          </property>
         </column>
         <item>
          <property name="text">
-          <string>Диапазон первой литавры</string>
+          <string>Диапазон каждой литавры</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Диапазон первой литавры</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Диапазон второй литавры</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Диапазон третьей литавры</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Диапазон четвёртой литавры</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Диапазон пятой литавры</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>«Ля» большой октавы на разных литаврах</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>На первой литавре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>На второй литавре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>На третьей литавре</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>«Ми» малой октавы на разных литаврах</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>На третьей литавре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>На четвёртой литавре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>На пятой литавре</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по обычной зоне мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для литавр (толстые)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для ксилофона (тонкие)</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками ближе к краю мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для литавр (толстые)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для ксилофона (тонкие)</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по центру мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для литавр (толстые)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Древки палочек для ксилофона (тонкие)</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Двухголосие неидентичными палочками</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Верхний голос — мягкой, нижний — жёсткой</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Верхний голос — жёсткой, нижний — мягкой</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Двухголосие неидентичными зонами</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Верхний голос — по центру, нижний — ближе к краю</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Верхний голос — ближе к краю, нижний — по центру</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разные зоны мембраны. Картер, 8 пьес для литавр, № 7</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Диапазон второй литавры</string>
+          <string>Переход от центра к краю мембраны</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Диапазон третьей литавры</string>
+          <string>Сурдина</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Без сурдины</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>С сурдиной</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>По сурдине</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тремоло: виды</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Тремоло одиночное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло дублированное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло прижимное</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тремоло: нотация и артикуляция</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Тремоло на одной литавре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло на разных литаврах</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Непрерывное тремоло</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Два тремоло</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Два тремоло с подчёркнутой атакой</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Два тремоло с акцентированной атакой</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Глиссандо</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Диапазон четвёртой литавры</string>
+          <string>Особые удары палочкой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Мёртвый удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар палочкой о палочку</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удары рукой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Открытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот ладонью</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Басовый удар</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удар палочкой по корпусу</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Диапазон пятой литавры</string>
+          <string>Трение палочкой по мембране</string>
          </property>
         </item>
        </widget>
        <widget class="QTreeWidget" name="treeWidget_14">
         <property name="geometry">
          <rect>
-          <x>260</x>
-          <y>140</y>
-          <width>511</width>
-          <height>91</height>
+          <x>255</x>
+          <y>-2</y>
+          <width>521</width>
+          <height>751</height>
          </rect>
         </property>
         <property name="visible">
@@ -716,286 +1149,314 @@ selection-color: rgb(249, 240, 107);
         <property name="styleSheet">
          <string notr="true">background-color: rgb(61, 56, 70);</string>
         </property>
+        <attribute name="headerVisible">
+         <bool>false</bool>
+        </attribute>
         <column>
          <property name="text">
-          <string>«Ля» большой октавы на разных литаврах</string>
+          <string>Малый барабан</string>
          </property>
         </column>
         <item>
          <property name="text">
-          <string>На первой литавре</string>
+          <string>Базовые элементы рудиментарной техники</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>На второй литавре</string>
+          <string>С подструнником, затем без него</string>
          </property>
         </item>
         <item>
-         <property name="text">
-          <string>На третьей литавре</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QTreeWidget" name="treeWidget_29">
-        <property name="geometry">
-         <rect>
-          <x>260</x>
-          <y>230</y>
-          <width>511</width>
-          <height>91</height>
-         </rect>
-        </property>
-        <property name="visible">
-         <bool>false</bool>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(61, 56, 70);</string>
-        </property>
-        <column>
-         <property name="text">
-          <string>«Ми» малой октавы на разных литаврах</string>
-         </property>
-        </column>
-        <item>
-         <property name="text">
-          <string>На третьей литавре</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>На четвёртой литавре</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>На пятой литавре</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QTreeWidget" name="treeWidget_30">
-        <property name="geometry">
-         <rect>
-          <x>260</x>
-          <y>320</y>
-          <width>511</width>
-          <height>301</height>
-         </rect>
-        </property>
-        <property name="visible">
-         <bool>false</bool>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(61, 56, 70);</string>
-        </property>
-        <column>
          <property name="text">
           <string>Разными палочками по обычной зоне мембраны</string>
          </property>
-        </column>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
         <item>
          <property name="text">
-          <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          <string>Разными палочками по краю мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по центру мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Двухголосие неидентичными палочками</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          <string>Переход от центра к краю мембраны</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          <string>Сурдина</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Без сурдины</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>С сурдиной</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Особые удары палочкой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Мёртвый удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар палочкой о палочку</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Хлопок по ободу</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Переход от кончика к середине палочки</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          <string>Тремоло палочками</string>
          </property>
+         <item>
+          <property name="text">
+           <string>Тремоло одиночное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло дублированное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло прижимное</string>
+          </property>
+         </item>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          <string>Удары рукой</string>
          </property>
+         <item>
+          <property name="text">
+           <string>Открытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот ладонью</string>
+          </property>
+         </item>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для маримбы с мягким наконечником</string>
+          <string>Удары по корпусу</string>
          </property>
+         <item>
+          <property name="text">
+           <string>Палочками</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Ладонями</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Ногтями</string>
+          </property>
+         </item>
         </item>
         <item>
          <property name="text">
-          <string>Палочки для маримбы с полужёстким наконечником</string>
+          <string>Художественные примеры</string>
          </property>
+         <item>
+          <property name="text">
+           <string>Финк, Токката для малого барабана</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Финк, Токката для малого барабана</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Финк, Сюита для малого барабана, финал</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Лиллофф, «Arhus etude» для малого барабана, № 9</string>
+          </property>
+         </item>
         </item>
-        <item>
-         <property name="text">
-          <string>Палочки для маримбы с жёстким наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Барабанные палочки</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Руты</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Щёточки</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Древки палочек для литавр (толстые)</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Древки палочек для ксилофона (тонкие)</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QTreeWidget" name="treeWidget_31">
-        <property name="geometry">
-         <rect>
-          <x>260</x>
-          <y>620</y>
-          <width>511</width>
-          <height>251</height>
-         </rect>
-        </property>
-        <property name="visible">
-         <bool>false</bool>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(61, 56, 70);</string>
-        </property>
-        <column>
-         <property name="text">
-          <string>Разными палочками ближе к краю мембраны</string>
-         </property>
-        </column>
-        <item>
-         <property name="text">
-          <string>Палочки для литавр с мягким фильцевым наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для литавр с жёстким фильцевым наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для ксилофона с мягким резиновым наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для маримбы с мягким наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для маримбы с полужёстким наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Палочки для маримбы с жёстким наконечником</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Барабанные палочки</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Руты</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Щёточки</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Древки палочек для литавр (толстые)</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Древки палочек для ксилофона (тонкие)</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QTextBrowser" name="textBrowser">
-        <property name="geometry">
-         <rect>
-          <x>780</x>
-          <y>0</y>
-          <width>411</width>
-          <height>651</height>
-         </rect>
-        </property>
-        <property name="visible">
-         <bool>false</bool>
-        </property>
-        <property name="html">
-         <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Noto Sans'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff;&quot;&gt;В аудиопримере звук извлекается палочками для литавр с полужёстким фильцевым наконечником. По обычной зоне мембраны (у литавры это не центр и не край).&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff;&quot;&gt;В аудиопримере инструмент звучит в диапазоне от «ми» большой октавы до «си» большой октавы.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Times New Roman'; font-size:12pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/newPrefix/Литавры_Первая литавра3.jpg&quot; /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-        </property>
        </widget>
       </widget>
       <widget class="QWidget" name="tab_4">
@@ -1127,125 +1588,6 @@ li.checked::marker { content: &quot;\2612&quot;; }
          </property>
         </item>
        </widget>
-       <widget class="QTextBrowser" name="textBrowser_2">
-        <property name="geometry">
-         <rect>
-          <x>830</x>
-          <y>0</y>
-          <width>451</width>
-          <height>811</height>
-         </rect>
-        </property>
-        <property name="html">
-         <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Noto Sans'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff;&quot;&gt;В аудиопримере звук извлекается палочками для ксилофона с пластиковым наконечником.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/newPrefix/Ксилофон, маримба, вибрафон, колокольчики_Ксилофо2н.jpg&quot; /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-        </property>
-       </widget>
-       <widget class="QTreeWidget" name="treeWidget_32">
-        <property name="geometry">
-         <rect>
-          <x>350</x>
-          <y>-1</y>
-          <width>471</width>
-          <height>111</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(61, 56, 70);</string>
-        </property>
-        <property name="editTriggers">
-         <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed|QAbstractItemView::SelectedClicked</set>
-        </property>
-        <column>
-         <property name="text">
-          <string>Партия ксилофона из «Путеводителя…» Бриттена на разных инструментах</string>
-         </property>
-        </column>
-        <item>
-         <property name="text">
-          <string>Ксилофон</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Маримба</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Вибрафон</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Колокольчики</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QTreeWidget" name="treeWidget_33">
-        <property name="geometry">
-         <rect>
-          <x>350</x>
-          <y>109</y>
-          <width>471</width>
-          <height>711</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(61, 56, 70);</string>
-        </property>
-        <property name="editTriggers">
-         <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed|QAbstractItemView::SelectedClicked</set>
-        </property>
-        <column>
-         <property name="text">
-          <string>Та же партия на октаву ниже</string>
-         </property>
-        </column>
-        <item>
-         <property name="text">
-          <string>Ксилофон</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Маримба</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Вибрафон</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Колокольчики</string>
-         </property>
-        </item>
-       </widget>
       </widget>
       <widget class="QWidget" name="tab_5">
        <attribute name="title">
@@ -1299,12 +1641,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <slot>show()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>158</x>
-     <y>63</y>
+     <x>137</x>
+     <y>52</y>
     </hint>
     <hint type="destinationlabel">
-     <x>547</x>
-     <y>122</y>
+     <x>526</x>
+     <y>111</y>
     </hint>
    </hints>
   </connection>
@@ -1315,12 +1657,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <slot>hide()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>158</x>
-     <y>87</y>
+     <x>137</x>
+     <y>76</y>
     </hint>
     <hint type="destinationlabel">
-     <x>547</x>
-     <y>122</y>
+     <x>526</x>
+     <y>411</y>
     </hint>
    </hints>
   </connection>
@@ -1331,12 +1673,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <slot>show()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>158</x>
-     <y>87</y>
+     <x>137</x>
+     <y>76</y>
     </hint>
     <hint type="destinationlabel">
-     <x>547</x>
-     <y>237</y>
+     <x>526</x>
+     <y>414</y>
     </hint>
    </hints>
   </connection>
@@ -1347,44 +1689,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <slot>hide()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>158</x>
-     <y>63</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>547</x>
-     <y>237</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>listWidget_12</sender>
-   <signal>itemClicked(QListWidgetItem*)</signal>
-   <receiver>textBrowser</receiver>
-   <slot>hide()</slot>
-   <hints>
-    <hint type="sourcelabel">
      <x>137</x>
-     <y>76</y>
+     <y>52</y>
     </hint>
     <hint type="destinationlabel">
-     <x>996</x>
-     <y>366</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>treeWidget_13</sender>
-   <signal>itemClicked(QTreeWidgetItem*,1)</signal>
-   <receiver>textBrowser</receiver>
-   <slot>show()</slot>
-   <hints>
-    <hint type="sourcelabel">
      <x>526</x>
-     <y>111</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>996</x>
-     <y>366</y>
+     <y>414</y>
     </hint>
    </hints>
   </connection>

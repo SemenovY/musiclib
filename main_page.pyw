@@ -42,7 +42,8 @@ class MyWindow(QMainWindow):
         super().__init__()
 
         loader = QUiLoader()
-        ui_file = QFile('/home/yuriy/dev/musiclib/test_v2.ui')  # Путь к вашему файлу .ui
+        ui_file = QFile('/home/yuriy/dev/musiclib/main_window_v1.ui')  # Путь к вашему файлу
+        # .ui
         ui_file.open(QFile.ReadOnly)
         self.ui = loader.load(ui_file)
         ui_file.close()
