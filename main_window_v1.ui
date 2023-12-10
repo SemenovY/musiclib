@@ -1467,14 +1467,14 @@ selection-color: rgb(249, 240, 107);
           <height>741</height>
          </rect>
         </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
         <property name="styleSheet">
          <string notr="true">background-color: rgb(61, 56, 70);</string>
         </property>
         <property name="headerHidden">
          <bool>true</bool>
-        </property>
-        <property name="visible">
-         <bool>false</bool>
         </property>
         <column>
          <property name="text">
@@ -1709,6 +1709,731 @@ selection-color: rgb(249, 240, 107);
         <item>
          <property name="text">
           <string>Глиссандо c усиливающимся нажимом локтя на центр мембраны</string>
+         </property>
+        </item>
+       </widget>
+       <widget class="QTreeWidget" name="treeWidget_16">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <attribute name="headerVisible">
+         <bool>false</bool>
+        </attribute>
+        <column>
+         <property name="text">
+          <string>Большой барабан</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Разными палочками по обычной зоне мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Колотушка с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанная палочка</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточка</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по краю мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Колотушка с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанная палочка</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточка</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по центру мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Колотушка с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочка для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанная палочка</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточка</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Двухголосие неидентичными палочками</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Переход от центра к краю мембраны</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Мёртвый удар</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тремоло</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочками одиночное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочками дублированное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочками прижимное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Пальцами прижимное</string>
+          </property>
+         </item>
+        </item>
+       </widget>
+       <widget class="QTreeWidget" name="treeWidget_17">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <property name="headerHidden">
+         <bool>true</bool>
+        </property>
+        <column>
+         <property name="text">
+          <string notr="true">Оркестровый бубен</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Разные палочки</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Приёмы игры руками</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Удар всей ладонью по центру мембраны</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар суставами пальцев по мембране</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар подушечкой пальца по краю мембраны</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Ритмизованное встряхивание</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар по ободу</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Чередование удара ладонью и трёх ударов пальцами</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Чередование ударов коленом и запястьем по мембране</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло встряхиванием</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло пальцами</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Чередование тремоло большим пальцем и двух ударов пальцами</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Чередование тремоло встряхиванием и двух ударов пальцами</string>
+          </property>
+         </item>
+        </item>
+       </widget>
+       <widget class="QTreeWidget" name="treeWidget_18">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <attribute name="headerVisible">
+         <bool>false</bool>
+        </attribute>
+        <column>
+         <property name="text">
+          <string>Бонго</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Традиционный кубинский ритм мартильо</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Руками</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочками</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Переход от центра к краю мембраны</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разные палочки</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удары рукой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Открытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар большим пальцем</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Мёртвый удар</string>
+         </property>
+        </item>
+       </widget>
+       <widget class="QTreeWidget" name="treeWidget_19">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <property name="headerHidden">
+         <bool>true</bool>
+        </property>
+        <column>
+         <property name="text">
+          <string>Конгас</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Конгас разных размеров</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Руками</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочками</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Традиционный кубинский ритм мартильо</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Руками</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочками</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Переход от центра к краю мембраны</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разные палочки</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с мягким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с полужёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для литавр с жёстким фильцевым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удары рукой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Открытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар большим пальцем</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Открытый басовый удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый басовый удар</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Мёртвый удар</string>
+         </property>
+        </item>
+       </widget>
+       <widget class="QTreeWidget" name="treeWidget_20">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <property name="headerHidden">
+         <bool>true</bool>
+        </property>
+        <column>
+         <property name="text">
+          <string notr="true">Мультиперкуссия</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Попов, Каприччио для мультиперкуссии</string>
          </property>
         </item>
        </widget>
@@ -2025,6 +2750,886 @@ selection-color: rgb(249, 240, 107);
     <hint type="sourcelabel">
      <x>137</x>
      <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_16</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_17</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_18</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_19</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_18</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_14</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_15</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>148</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_16</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>172</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_17</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_20</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>196</y>
     </hint>
     <hint type="destinationlabel">
      <x>525</x>
