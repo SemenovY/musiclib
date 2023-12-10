@@ -658,7 +658,7 @@ selection-color: rgb(249, 240, 107);
        <widget class="QTreeWidget" name="treeWidget_13">
         <property name="geometry">
          <rect>
-          <x>260</x>
+          <x>259</x>
           <y>0</y>
           <width>511</width>
           <height>741</height>
@@ -1137,10 +1137,10 @@ selection-color: rgb(249, 240, 107);
        <widget class="QTreeWidget" name="treeWidget_14">
         <property name="geometry">
          <rect>
-          <x>255</x>
-          <y>-2</y>
-          <width>521</width>
-          <height>751</height>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
          </rect>
         </property>
         <property name="visible">
@@ -1458,6 +1458,260 @@ selection-color: rgb(249, 240, 107);
          </item>
         </item>
        </widget>
+       <widget class="QTreeWidget" name="treeWidget_15">
+        <property name="geometry">
+         <rect>
+          <x>259</x>
+          <y>0</y>
+          <width>511</width>
+          <height>741</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(61, 56, 70);</string>
+        </property>
+        <property name="headerHidden">
+         <bool>true</bool>
+        </property>
+        <property name="visible">
+         <bool>false</bool>
+        </property>
+        <column>
+         <property name="text">
+          <string>Том-том</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>Том-томы разных размеров</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>10 дюймов в диаметре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>13 дюймов в диаметре</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>16 дюймов в диаметре</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Базовые элементы рудиментарной техники</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по центру мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Разными палочками по краю мембраны</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Барабанные палочки</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с мягким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с жёстким резиновым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для ксилофона с пластиковым наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с мягким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с полужёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Палочки для маримбы с жёстким наконечником</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Руты</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Щёточки</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Переход от центра к краю мембраны</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Сурдина</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Без сурдины</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>С сурдиной</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>По сурдине</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Особые удары палочкой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Мёртвый удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Удар палочкой о палочку</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Хлопок по ободу</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тремоло палочками</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Тремоло одиночное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло дублированное</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Тремоло прижимное</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удары рукой</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Открытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый простой удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Римшот ладонью</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Открытый басовый удар</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Закрытый басовый удар</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Глиссандо c усиливающимся нажимом локтя на центр мембраны</string>
+         </property>
+        </item>
+       </widget>
       </widget>
       <widget class="QWidget" name="tab_4">
        <attribute name="title">
@@ -1695,6 +1949,86 @@ selection-color: rgb(249, 240, 107);
     <hint type="destinationlabel">
      <x>526</x>
      <y>414</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_13</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_14</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_13</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_11</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_12</sender>
+   <signal>itemClicked(QListWidgetItem*)</signal>
+   <receiver>treeWidget_15</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>137</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>525</x>
+     <y>411</y>
     </hint>
    </hints>
   </connection>
